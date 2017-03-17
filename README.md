@@ -11,7 +11,11 @@ Just implement mouseenter / mouseout event handlers.(Basic pattern)
 
 onhover_module.fmp12 is the sample file of this technique.
 (new way video: https://www.youtube.com/watch?v=be2N0jRAoSE)
+
 Have fun!
 
 I tested this file on Mac Sierra, FileMaker ver15 only.
 Maybe it works on El capitan, FileMaker ver14~
+
+Please let me know your idea, requests, thoughts about this on issues!
+I would really appreciate it.
