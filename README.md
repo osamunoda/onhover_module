@@ -15,7 +15,6 @@ onhover_module.fmp12 is the sample file of this technique.
 Have fun!
 
 I tested this file on Mac Sierra, FileMaker ver15 only.
-Maybe it works on El capitan, FileMaker ver14~
 
 Please let me know your idea, requests, thoughts about this on issues!
 I would really appreciate it.
